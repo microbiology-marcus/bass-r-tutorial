@@ -1,0 +1,27 @@
+SampleID	Description	Location	Notes
+CL3	CL3	Soil	Environment	Calhoun South Carolina Pine soil, pH 4.9
+CC1	CC1	Soil	Environment	Cedar Creek Minnesota, grassland, pH 6.1
+SV1	SV1	Soil	Environment	Sevilleta new Mexico, desert scrub, pH 8.3
+M31Fcsw	M31Fcsw	Feces	Human	M3, Day 1, fecal swab, whole body study
+M11Fcsw	M11Fcsw	Feces	Human	M1, Day 1, fecal swab, whole body study 
+M31Plmr	M31Plmr	Skin	Human	M3, Day 1, right palm, whole body study
+M11Plmr	M11Plmr	Skin	Human	M1, Day 1, right palm, whole body study 
+F21Plmr	F21Plmr	Skin	Human	F1, Day 1,  right palm, whole body study 
+M31Tong	M31Tong	Tongue	Human	M3, Day 1, tongue, whole body study 
+M11Tong	M11Tong	Tongue	Human	M1, Day 1, tongue, whole body study 
+LMEpi24M	LMEpi24M	Freshwater	Environment	Lake Mendota Minnesota, 24 meter epilimnion 
+SLEpi20M	SLEpi20M	Freshwater	Environment	Sparkling Lake Wisconsin, 20 meter eplimnion
+AQC1cm	AQC1cm	Freshwater (creek)	Environment	Allequash Creek, 0-1cm depth
+AQC4cm	AQC4cm	Freshwater (creek)	Environment	Allequash Creek, 3-4 cm depth
+AQC7cm	AQC7cm	Freshwater (creek)	Environment	Allequash Creek, 6-7 cm depth
+NP2	NP2	Ocean	Environment	Newport Pier, CA surface water, Time 1
+NP3	NP3	Ocean	Environment	Newport Pier, CA surface water, Time 2
+NP5	NP5	Ocean	Environment	Newport Pier, CA surface water, Time 3
+TRRsed1	TRRsed1	Sediment (estuary)	Environment	Tijuana River Reserve, depth 1
+TRRsed2	TRRsed2	Sediment (estuary)	Environment	Tijuana River Reserve, depth 2
+TRRsed3	TRRsed3	Sediment (estuary)	Environment	Tijuana River Reserve, depth 2
+TS28	TS28	Feces	Human	Twin 
+TS29	TS29	Feces	Human	Twin 
+Even1	Even1	Mock	Mock	Even1
+Even2	Even2	Mock	Mock	Even2
+Even3	Even3	Mock	Mock	Even3
